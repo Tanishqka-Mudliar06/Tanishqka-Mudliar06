@@ -1,46 +1,48 @@
-# Hey there! 👋 I'm Tanishqka
+# ✨ Hey, I'm Tanishqka 👋
 
-🎓 AI & Data Science Student
+### 💜 AI & Data Science Student | Aspiring Developer
 
-💻 I love exploring technology and building useful projects.
+*Learning • Building • Growing*
 
-### 🌱 Currently Learning
-- Python
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-- Git & GitHub
+---
 
-### 🛠️ Skills
-- Python
-- HTML & CSS
-- JavaScript
-- SQL
+## 💫 About Me
 
-### 🚀 Featured Project
-**Software DNA Mapping Platform**
+🎓 I'm an Artificial Intelligence and Data Science student who enjoys exploring technology and solving problems through code.
 
-A project focused on analyzing software quality and health.
+🌱 Currently learning programming, web development, and machine learning.
 
-### 🎯 My Goals
-- Build real-world projects
-- Improve my coding skills
-- Explore open-source contributions
-- Prepare for internships and placements
+🎯 My goal is to build meaningful projects and prepare for internships and placements.
 
-### 💫 Thanks for visiting my profile!
+## 🛠️ Tech Stack
 
-<!--
-**Tanishqka-Mudliar06/Tanishqka-Mudliar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Here are some ideas to get you started:
+*Keep only the technologies you know or are actively learning.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🧬 Software DNA Mapping Platform
+
+A software analysis project designed to explore code quality and software health.
+
+🔹 Focus: Maintainability, security, and software quality insights.
+
+🔹 Status: In development.
+
+## 🌷 Current Goals
+
+- 💻 Build practical projects
+- 🧠 Strengthen problem-solving skills
+- 🌐 Learn collaborative development with Git
+- 🚀 Prepare for internships and placements
+
+---
+
+### 💜 *Small steps. Big dreams. Better code every day.*
+
+Thanks for visiting my profile! ✨
